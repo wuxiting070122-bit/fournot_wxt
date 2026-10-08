@@ -1,0 +1,1050 @@
+{
+	"aye": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 29
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			}
+		],
+		"rows": 4,
+		"source": "../aye_v1/aye-sheet-v3-no-cigarette.png"
+	},
+	"daixingzhe": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 44
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 44
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 44
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 43
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 44
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 39
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 40
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 39
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 45
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 45
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 40
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 40
+			},
+			{
+				"baseline": 62,
+				"height": 50,
+				"width": 40
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 44
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 45
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 45
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 43
+			}
+		],
+		"rows": 4,
+		"source": "../daixingzhe_v1/sheet-v1.png"
+	},
+	"heroine": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			}
+		],
+		"rows": 4,
+		"source": "painter-sheet-v1.png"
+	},
+	"laozhou": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			}
+		],
+		"rows": 4,
+		"source": "../laozhou_v1/laozhou-preview.png"
+	},
+	"linshao": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 53,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 37
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 36
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 36
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 36
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 36
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 31
+			}
+		],
+		"rows": 4,
+		"source": "heiress-sheet-v1.png"
+	},
+	"shenzhi": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 29
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 30
+			}
+		],
+		"rows": 4,
+		"source": "writer-approved.png"
+	},
+	"wanwan": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 32
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 31
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 30
+			}
+		],
+		"rows": 4,
+		"source": "student-sheet-v1.png"
+	},
+	"xiaolu": {
+		"cell": [
+			64,
+			64
+		],
+		"columns": 6,
+		"frames": [
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 35
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 43
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 56,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 45
+			},
+			{
+				"baseline": 62,
+				"height": 55,
+				"width": 41
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 54,
+				"width": 42
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 52,
+				"width": 33
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 34
+			},
+			{
+				"baseline": 62,
+				"height": 51,
+				"width": 33
+			}
+		],
+		"rows": 4,
+		"source": "../xiaolu_v1/xiaolu-preview-v3.png"
+	}
+}
