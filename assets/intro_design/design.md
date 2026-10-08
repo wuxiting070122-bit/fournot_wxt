@@ -1,0 +1,2 @@
+参考图：floating-silhouette-reference.png。内置imagegen生成，尚未接入游戏。
+提示词：Replace the entire floating woman with a single flat solid pale cyan silhouette. No facial features, clothing folds, internal lines or shading. Preserve only external silhouette of bob hair, scarf, sleeves and long skirt. Keep dark flooded liminal corridor, cyan water reflections, analog grain and dreamlike double exposure; no text or UI.
