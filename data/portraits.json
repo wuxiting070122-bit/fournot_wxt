@@ -1,0 +1,44 @@
+{
+  "linshao": {
+    "texture": "res://assets/portraits/linshao.png",
+    "center_x": 1000.0,
+    "head_y": 144.444,
+    "waist_y": 1481.481
+  },
+  "shenzhi": {
+    "texture": "res://assets/portraits/shenzhi.png",
+    "center_x": 1000.0,
+    "head_y": 144.444,
+    "waist_y": 1333.333
+  },
+  "heroine": {
+    "texture": "res://assets/portraits/heroine.png",
+    "center_x": 1046.296,
+    "head_y": 118.519,
+    "waist_y": 1833.333
+  },
+  "wanwan": {
+    "texture": "res://assets/portraits/wanwan.png",
+    "center_x": 981.481,
+    "head_y": 105.556,
+    "waist_y": 1425.926
+  },
+  "aye": {
+    "texture": "res://assets/portraits/aye.png",
+    "center_x": 1009.259,
+    "head_y": 222.222,
+    "waist_y": 1490.741
+  },
+  "xiaolu": {
+    "texture": "res://assets/portraits/xiaolu.png",
+    "center_x": 1000.0,
+    "head_y": 151.852,
+    "waist_y": 1240.741
+  },
+  "laozhou": {
+    "texture": "res://assets/portraits/laozhou.png",
+    "center_x": 925.926,
+    "head_y": 96.296,
+    "waist_y": 1481.481
+  }
+}

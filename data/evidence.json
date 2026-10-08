@@ -1,0 +1,212 @@
+[
+  {
+    "id": "A1",
+    "source": "fire",
+    "quote": "警方尚未公布三人的具体死因",
+    "round": 0,
+    "concept": "death",
+    "keywords": [
+      "具体死因"
+    ],
+    "direct": true,
+    "why": "反驳“父亲必定死于阿野造成的刀伤”。"
+  },
+  {
+    "id": "A2",
+    "source": "fire",
+    "quote": "也未就起火原因作出结论",
+    "round": 0,
+    "concept": "fire",
+    "keywords": [
+      "起火原因",
+      "作出结论"
+    ],
+    "direct": true,
+    "why": "反驳“阿野就是纵火者”。"
+  },
+  {
+    "id": "A3",
+    "source": "fire",
+    "quote": "更不能确定是谁点燃",
+    "round": 0,
+    "concept": "fire",
+    "keywords": [
+      "不能确定",
+      "谁点燃"
+    ],
+    "direct": true,
+    "why": "反驳以室内火势位置直接指认纵火者；与 A2 属同一论点，只计一次。"
+  },
+  {
+    "id": "A4",
+    "source": "fire",
+    "quote": "通报未涉及此次火灾",
+    "round": 0,
+    "concept": "discipline",
+    "keywords": [
+      "通报",
+      "未涉及",
+      "此次火灾"
+    ],
+    "direct": false,
+    "why": "反驳把学校处分当成此次纵火证据。"
+  },
+  {
+    "id": "A5",
+    "source": "fire",
+    "quote": "都表示不清楚他家里发生过什么",
+    "round": 0,
+    "concept": "opinion",
+    "keywords": [
+      "不清楚",
+      "家里发生"
+    ],
+    "direct": false,
+    "why": "限定师生印象的证明范围。"
+  },
+  {
+    "id": "A6",
+    "source": "fire",
+    "quote": "却分不清是谁在喊、争吵结束与闻到烟味之间隔了多久",
+    "round": 0,
+    "concept": "witness",
+    "keywords": [
+      "分不清",
+      "是谁在喊"
+    ],
+    "direct": false,
+    "why": "反驳邻居能提供准确的纵火者与起火时序。"
+  },
+  {
+    "id": "A7",
+    "source": "fire",
+    "quote": "关于家庭暴力、纵火及谁先遇难，网络上已有多种说法，均未得到证实",
+    "round": 0,
+    "concept": "death",
+    "keywords": [
+      "均未得到证实"
+    ],
+    "direct": true,
+    "why": "对老周将猜测说成定论的概括性反驳；与 A1/A2 同类时只取效果最高者。"
+  },
+  {
+    "id": "B1",
+    "source": "lawyer",
+    "quote": "X某，男，法学院毕业后从事律师工作",
+    "round": 1,
+    "concept": "identity",
+    "keywords": [
+      "法学院",
+      "律师工作"
+    ],
+    "direct": false,
+    "why": "建立遇害者职业轮廓；须与会议记录合用才可指向老周。"
+  },
+  {
+    "id": "B2",
+    "source": "lawyer",
+    "quote": "后主要代理建设工程案件",
+    "round": 1,
+    "concept": "specialty",
+    "keywords": [
+      "代理",
+      "建设工程"
+    ],
+    "direct": false,
+    "why": "连接其专业领域与林梢家的建筑案；单独不足以确认身份。"
+  },
+  {
+    "id": "B3",
+    "source": "lawyer",
+    "quote": "曾代理建筑公司处理工地死亡事故",
+    "round": 1,
+    "concept": "case",
+    "keywords": [
+      "建筑公司",
+      "工地死亡事故"
+    ],
+    "direct": false,
+    "why": "连接案卷与林梢口述的旧案。"
+  },
+  {
+    "id": "B5",
+    "source": "notes",
+    "quote": "他是我父亲请的律师",
+    "round": 1,
+    "concept": "witness_identity",
+    "keywords": [
+      "父亲请的律师"
+    ],
+    "direct": true,
+    "why": "林梢亲自确认；与案卷职业、案件信息合用才可完成身份指认。"
+  },
+  {
+    "id": "C1",
+    "source": "lawyer",
+    "quote": "判决后，死者家属反被判赔偿公司损失",
+    "round": 2,
+    "concept": "judgment",
+    "keywords": [
+      "家属",
+      "赔偿",
+      "公司损失"
+    ],
+    "direct": false,
+    "why": "证明旧案结局；不能单独证明律师违法。"
+  },
+  {
+    "id": "C2",
+    "source": "lawyer",
+    "quote": "工人的妻子随后自杀",
+    "round": 2,
+    "concept": "consequence",
+    "keywords": [
+      "妻子",
+      "自杀"
+    ],
+    "direct": false,
+    "why": "证明严重后果和时间关系；不单独判定法律上的直接因果。"
+  },
+  {
+    "id": "C3",
+    "source": "lawyer",
+    "quote": "给X顾问公司的咨询费，按我发的账户走，不要写案号",
+    "round": 2,
+    "concept": "instruction",
+    "keywords": [
+      "咨询费",
+      "账户",
+      "不要写案号"
+    ],
+    "direct": false,
+    "why": "指向代理律师主动安排、掩饰款项用途。"
+  },
+  {
+    "id": "C4",
+    "source": "lawyer",
+    "quote": "X顾问公司的实际控制人为工地赔偿案承办法官的兄长，款项随后转入法官个人账户",
+    "round": 2,
+    "concept": "money",
+    "keywords": [
+      "法官",
+      "兄长",
+      "个人账户"
+    ],
+    "direct": true,
+    "why": "用资金路径连接建筑公司与承办法官。"
+  },
+  {
+    "id": "C5",
+    "source": "lawyer",
+    "quote": "该法官在另案讯问中承认收受这笔钱，并应请托在工地赔偿案中偏向建筑公司",
+    "round": 2,
+    "concept": "admission",
+    "keywords": [
+      "承认",
+      "收受",
+      "偏向建筑公司"
+    ],
+    "direct": true,
+    "why": "佐证收款与偏向裁判；须与 C3 合用，才能把老周的参与讲完整。"
+  }
+]
